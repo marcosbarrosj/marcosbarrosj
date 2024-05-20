@@ -6,8 +6,7 @@
 
 
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=22&pause=1000&color=028008&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=%F0%9F%91%8BOl%C3%A1%2Cmeu+nome+%C3%A9+Jo%C3%A3o+Marcos;Sou+Desenvolvedor+front-end-junior%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=22&duration=5.000&pause=1001&color=028008&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=441&lines=%F0%9F%91%8BOl%C3%A1%2Cmeu+nome+%C3%A9+Jo%C3%A3o+Marcos;Sou+Desenvolvedor+front-end-junior%E2%9A%A1)](https://git.io/typing-svg)
 
  ## Sobre mim
 
