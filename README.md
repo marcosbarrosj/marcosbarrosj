@@ -1,7 +1,7 @@
 
 
 
-![Banner para linkedin com círculos minimalista cinza](https://github.com/marcosbarrosj/marcosbarrosj/assets/166825415/ecf5a3c7-9744-4ee0-8e31-ea01ee388ad9)
+![Banner para Linkedin Tecnologia em Preto (1)](https://github.com/marcosbarrosj/marcosbarrosj/assets/166825415/4ef48823-d560-4d5a-8ae8-979e9a2e7574)
 
 
 - 👋 Hi, I’m @marcosbarrosj
