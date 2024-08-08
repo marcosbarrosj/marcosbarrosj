@@ -19,8 +19,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 </div>
-.🚀 Minhas habilidades
-.NET NEXT.JS CSS REACT.JS HTML Javascript typescript Microsoft_SQL_Server GIT
+
 <!---
 marcosbarrosj/marcosbarrosj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
