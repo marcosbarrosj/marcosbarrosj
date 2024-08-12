@@ -15,6 +15,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcosbarrosj&hide_title=true&theme=gotham&radius=16" height="200" alt="activity-graph graph"  />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcosbarrosj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcosbarrosj&hide_title=true&theme=gotham&radius=16" height="200" alt="activity-graph graph"  />
+</div>
+
 ###
 
 <div align="center">
@@ -32,6 +37,10 @@
   <img width="21" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="38" alt="vscode logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/marcosbarrosj/marcosbarrosj/output/snake.svg" alt="Snake animation" />
 
 ###
 
