@@ -38,11 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="38" alt="vscode logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/marcosbarrosj/marcosbarrosj/output/snake.svg" alt="Snake animation" />
-
-###
 
 ![Design sem nome (5)](https://github.com/marcosbarrosj/marcosbarrosj/assets/166825415/5b17f6b7-ef8c-46f2-a3a3-c28265fc0d67)
 
